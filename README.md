@@ -1,4 +1,4 @@
-#🥤 Coca-Cola Sales & Profitability Analysis (2021)
+##🥤 Coca-Cola Sales & Profitability Analysis (2021)
 📌 Project Overview
 This project provides a comprehensive analysis of Coca-Cola's sales performance and profitability across various retailers and regions in the United States. The goal was to identify key drivers of revenue, assess regional efficiency, and detect seasonal trends to help optimize business decisions.
 
